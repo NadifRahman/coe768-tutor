@@ -1,0 +1,10 @@
+node_modules/
+.study-cache/
+materials/inbox/**
+!materials/inbox/.gitkeep
+notes/public/generated/
+notes/chapters/week-*.md
+materials/local/**
+!materials/local/.gitkeep
+.DS_Store
+npm-debug.log*
