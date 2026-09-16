@@ -1,5 +1,230 @@
 # Paths are relative to the repository root. Keep IDs stable after notes exist.
-sources: []
+sources:
+  [
+    {
+        id: week-01-lecture-01,
+        type: lecture,
+        title: "Week 1 Lecture 1: Introduction",
+        path: materials/local/lectures/week-01/lecture-01.pdf,
+        week: 1,
+        lecture: 1,
+        tracked: false
+      },
+    {
+        id: week-01-lecture-02,
+        type: lecture,
+        title: "Week 1 Lecture 2: Introduction",
+        path: materials/local/lectures/week-01/lecture-02.pdf,
+        week: 1,
+        lecture: 2,
+        tracked: false
+      },
+    {
+        id: week-01-lecture-03,
+        type: lecture,
+        title: "Week 1 Lecture 3: Introduction",
+        path: materials/local/lectures/week-01/lecture-03.pdf,
+        week: 1,
+        lecture: 3,
+        tracked: false
+      },
+    {
+        id: course-outline-f2026,
+        type: outline,
+        title: COE768 Fall 2026 Course Outline,
+        path: materials/local/course/course-outline-f2026.pdf,
+        tracked: false
+      },
+    {
+        id: student-notes-2tor,
+        type: notes,
+        title: 2tor Previous Student COE768 Notes,
+        path: materials/local/student-notes/2tor-coe768-notes.pdf,
+        tracked: false
+      },
+    {
+        id: student-notes-jasper-cruz,
+        type: notes,
+        title: Jasper Cruz COE768 Course Notes,
+        path: materials/local/student-notes/jasper-cruz-coe768-notes.pdf,
+        tracked: false
+      },
+    {
+        id: lab-01,
+        type: lab,
+        title: "Lab 1: Network Layer Architecture and Encapsulation",
+        path: materials/local/assignments/lab-01.pdf,
+        tracked: false
+      },
+    {
+        id: lab-01-echo-client,
+        type: assignment,
+        title: Lab 1 Echo Client Source,
+        path: materials/local/assignments/echo-client.c,
+        tracked: false
+      },
+    {
+        id: lab-01-echo-server,
+        type: assignment,
+        title: Lab 1 Echo Server Source,
+        path: materials/local/assignments/echo-server.c,
+        tracked: false
+      },
+    {
+        id: final-study-hall-review-notes,
+        type: assessment,
+        title: COE768 Final Study Hall Review Notes,
+        path: materials/local/reviews/final-study-hall-review-notes.pdf,
+        tracked: false
+      },
+    {
+        id: final-review-2025,
+        type: assessment,
+        title: Final Exam Review 2025,
+        path: materials/local/assessments/final-review-2025.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-review-questions,
+        type: assessment,
+        title: Midterm Review Questions,
+        path: materials/local/assessments/midterm-review-questions.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2025-solution-v1,
+        type: assessment,
+        title: COE768 2025 Midterm Solution Version 1,
+        path: materials/local/assessments/midterm-2025-solution-v1.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2025-solution-v2,
+        type: assessment,
+        title: COE768 2025 Midterm Solution Version 2,
+        path: materials/local/assessments/midterm-2025-solution-v2.pdf,
+        tracked: false
+      },
+    {
+        id: coe768-cheat-sheet,
+        type: textbook,
+        title: COE768 Cheat Sheet,
+        path: materials/local/references/coe768-cheat-sheet.pdf,
+        tracked: false
+      },
+    {
+        id: supplementary-problem-set-01,
+        type: homework,
+        title: Supplementary Problem Set 1,
+        path: materials/local/homework/supplementary-problem-set-01.pdf,
+        tracked: false
+      },
+    {
+        id: supplementary-problem-set-01-solution,
+        type: homework,
+        title: Supplementary Problem Set 1 Solutions,
+        path: materials/local/homework/supplementary-problem-set-01-solution.pdf,
+        tracked: false
+      },
+    {
+        id: supplementary-problem-set-02,
+        type: homework,
+        title: Supplementary Problem Set 2,
+        path: materials/local/homework/supplementary-problem-set-02.pdf,
+        tracked: false
+      },
+    {
+        id: supplementary-problem-set-02-solution,
+        type: homework,
+        title: Supplementary Problem Set 2 Solutions,
+        path: materials/local/homework/supplementary-problem-set-02-solution.pdf,
+        tracked: false
+      },
+    {
+        id: sample-final,
+        type: assessment,
+        title: COE768 Sample Final,
+        path: materials/local/assessments/sample-final.pdf,
+        tracked: false
+      },
+    {
+        id: sample-final-solutions,
+        type: assessment,
+        title: COE768 Sample Final Solutions,
+        path: materials/local/assessments/sample-final-solutions.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2012,
+        type: assessment,
+        title: COE768 Fall 2012 Midterm,
+        path: materials/local/assessments/midterm-2012.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2013,
+        type: assessment,
+        title: COE768 Fall 2013 Midterm,
+        path: materials/local/assessments/midterm-2013.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2014,
+        type: assessment,
+        title: COE768 Fall 2014 Midterm,
+        path: materials/local/assessments/midterm-2014.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2015,
+        type: assessment,
+        title: COE768 Fall 2015 Midterm,
+        path: materials/local/assessments/midterm-2015.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2015-solutions,
+        type: assessment,
+        title: COE768 Fall 2015 Midterm Solutions,
+        path: materials/local/assessments/midterm-2015-solutions.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2016,
+        type: assessment,
+        title: COE768 Fall 2016 Midterm,
+        path: materials/local/assessments/midterm-2016.pdf,
+        tracked: false
+      },
+    {
+        id: midterm-2016-solutions,
+        type: assessment,
+        title: COE768 Fall 2016 Midterm Solutions,
+        path: materials/local/assessments/midterm-2016-solutions.pdf,
+        tracked: false
+      },
+    {
+        id: textbook-top-down-6e,
+        type: textbook,
+        title: "Computer Networking: A Top-Down Approach, 6th Edition",
+        path: materials/local/textbooks/computer-networking-top-down-6e.pdf,
+        tracked: false
+      },
+    {
+        id: textbook-tanenbaum-5e,
+        type: textbook,
+        title: "Computer Networks, 5th Edition",
+        path: materials/local/textbooks/computer-networks-tanenbaum-5e.pdf,
+        tracked: false
+      },
+    {
+        id: textbook-tanenbaum-5e-solution-manual,
+        type: textbook,
+        title: "Computer Networks, 5th Edition Solution Manual",
+        path: materials/local/textbooks/computer-networks-tanenbaum-5e-solutions.pdf,
+        tracked: false
+      }
+  ]
 
 # Example weekly lecture:
 # - id: week-01-lecture-01
