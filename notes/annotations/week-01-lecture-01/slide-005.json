@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "baseHash": "6ecab666d7061511e9efff0da507ee8a10f5338c294d5e0730a9b569441bef8c",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu44bcni-phx05w",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.0664225352112676,
+      "y1": 0.06197861707846378,
+      "x2": 0.17459154929577464,
+      "y2": 0.11167300455930078,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu44bz5k-k6ry71",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.6496338028169014,
+      "y1": 0.7411352459832361,
+      "x2": 0.8181971830985916,
+      "y2": 0.8010233539729628,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

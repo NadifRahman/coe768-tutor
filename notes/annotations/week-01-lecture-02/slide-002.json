@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "baseHash": "ba2ae7110afe16c94f0b75f9d4cc06cbe63e66845a3afad539e0be4b1841a0fc",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu45cr4j-q28cld",
+      "type": "stroke",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "tool": "pen",
+      "pressureEnabled": true,
+      "points": [
+        {
+          "x": 0.5811267605633803,
+          "y": 0.9552033766699186,
+          "pressure": 0.2490234375
+        },
+        {
+          "x": 0.5513802816901409,
+          "y": 0.9488323013518626,
+          "pressure": 0.2490234375
+        },
+        {
+          "x": 0.544169014084507,
+          "y": 0.9475580862882513,
+          "pressure": 0.099609375
+        }
+      ]
+    },
+    {
+      "id": "annotation-mu45cr5r-8tdtpe",
+      "type": "stroke",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "tool": "pen",
+      "pressureEnabled": true,
+      "points": [
+        {
+          "x": 0.335943661971831,
+          "y": 0.871105182471579,
+          "pressure": 0.052734375
+        },
+        {
+          "x": 0.30709859154929575,
+          "y": 0.858363031835467,
+          "pressure": 0.052734375
+        }
+      ]
+    },
+    {
+      "id": "annotation-mu45d2qm-6gtwuc",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.6108732394366198,
+      "y1": 0.18302904812152826,
+      "x2": 0.8957183098591549,
+      "y2": 0.22380393015708683,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu45d5md-r6hvc5",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.4711549295774648,
+      "y1": 0.23399765066597647,
+      "x2": 0.8118873239436619,
+      "y2": 0.26967567244709023,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu45d8sc-1vppuw",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.24940845070422535,
+      "y1": 0.18048061799430584,
+      "x2": 0.3233239436619718,
+      "y2": 0.2174328548390308,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu45danu-ibww0o",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.19532394366197184,
+      "y1": 0.23909451092042128,
+      "x2": 0.2593239436619718,
+      "y2": 0.2671272423198678,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

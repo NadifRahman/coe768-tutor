@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "baseHash": "6f21df3e2494524b39f0387d0a70af0534ce6fb1e1276a71bb6b22a0ac8ff551",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4n1xbu-pcwg37",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.4970879970879971,
+      "y1": 0.2615826597774586,
+      "x2": 0.8183789850456518,
+      "y2": 0.31235126385524087,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4n219p-rt5px6",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.07290623957290623,
+      "y1": 0.31646763715884485,
+      "x2": 0.2515090848424182,
+      "y2": 0.3672362412366271,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4n2mwn-6wwbn1",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.566976066976067,
+      "y1": 0.5305190489462513,
+      "x2": 0.7581975915309249,
+      "y2": 0.575799155285895,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4n2smq-s7wp5u",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.3262504929171596,
+      "y1": 0.6073580172801921,
+      "x2": 0.8067309733976401,
+      "y2": 0.6663593679651824,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4n2x5g-uxp9j6",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.22433039099705768,
+      "y1": 0.7925948159423708,
+      "x2": 0.46796796796796797,
+      "y2": 0.8461076688892224,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

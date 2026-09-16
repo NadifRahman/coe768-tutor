@@ -3,7 +3,7 @@ slide_id: "week-01-lecture-02-slide-005"
 source_id: "week-01-lecture-02"
 page: 5
 week: 1
-status: unseen
+status: teaching
 concepts: []
 ---
 
@@ -13,19 +13,21 @@ concepts: []
 
 ## Explanation
 
-_The course tutor will develop this explanation with you._
+The software component of a network includes programs used to operate, design, monitor, analyze, and implement computer networks.
 
 ## Walkthrough
 
-_Diagrams, equations, code, and examples will be explained here._
+The slide gives three examples. **Wireshark** captures network traffic and stores it for later packet analysis. **Nmap** discovers hosts and services by sending packets and analyzing responses; the slide lists network mapping, port scanning, and vulnerability checking as uses. **GNS3** simulates or emulates network environments so they can be configured, tested, and troubleshot.
+
+These tools observe different aspects of a network: Wireshark examines traffic that is already flowing, Nmap actively probes a network to learn what is available, and GNS3 provides a controlled environment for experimentation.
 
 ## Connections and exam relevance
 
-_Connections will be added when supported by course sources._
+This extends the hardware components from the previous slides: hardware carries or forwards traffic, while networking software helps us inspect, configure, test, and understand that hardware and its behavior. [week-01-lecture-02, p. 5]
 
 ## Check your understanding
 
-_A concept-level check will be added when appropriate._
+**Check:** Which tool would you choose to capture and inspect packets that are already travelling through a network: Wireshark, Nmap, or GNS3?
 
 <!-- personal:start -->
 ## Personal notes

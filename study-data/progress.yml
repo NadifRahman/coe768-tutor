@@ -1,10 +1,172 @@
 version: 1
 checkpoint:
   week: 1
-  source_id: null
-  slide_id: null
-  updated_at: null
-slides: {}
+  source_id: week-01-lecture-02
+  slide_id: week-01-lecture-02-slide-013
+  updated_at: 2026-09-16
+slides:
+  week-01-lecture-01-slide-001:
+    status: teaching
+  week-01-lecture-01-slide-002:
+    status: understood
+    concepts:
+      client-server-endpoints:
+        confidence: 3
+        misconception: null
+  week-01-lecture-01-slide-003:
+    status: teaching
+  week-01-lecture-01-slide-004:
+    status: teaching
+  week-01-lecture-01-slide-005:
+    status: understood
+  week-01-lecture-01-slide-006:
+    status: understood
+  week-01-lecture-01-slide-007:
+    status: understood
+  week-01-lecture-01-slide-008:
+    status: understood
+  week-01-lecture-02-slide-001:
+    status: understood
+  week-01-lecture-02-slide-002:
+    status: understood
+  week-01-lecture-02-slide-003:
+    status: understood
+  week-01-lecture-02-slide-004:
+    status: review-needed
+  week-01-lecture-02-slide-005:
+    status: understood
+  week-01-lecture-02-slide-006:
+    status: understood
+  week-01-lecture-02-slide-007:
+    status: understood
+  week-01-lecture-02-slide-008:
+    status: understood
+  week-01-lecture-02-slide-009:
+    status: understood
+  week-01-lecture-02-slide-010:
+    status: understood
+  week-01-lecture-02-slide-011:
+    status: understood
+  week-01-lecture-02-slide-012:
+    status: understood
+  week-01-lecture-02-slide-013:
+    status: teaching
+concepts:
+  client-server-endpoints:
+    related_slides: [week-01-lecture-01-slide-002]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  network-definition-and-scope:
+    related_slides: [week-01-lecture-01-slide-003]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  three-networking-topics:
+    related_slides: [week-01-lecture-01-slide-004]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  network-reliability:
+    related_slides: [week-01-lecture-01-slide-006]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  resource-allocation-and-collisions:
+    related_slides: [week-01-lecture-01-slide-007]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  flow-control:
+    related_slides: [week-01-lecture-01-slide-008]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  hardware-components:
+    related_slides: [week-01-lecture-02-slide-001]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 1
+  switch-versus-router:
+    related_slides: [week-01-lecture-02-slide-002]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  link-directionality:
+    related_slides: [week-01-lecture-02-slide-003]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  wireless-broadcast-and-half-duplex:
+    related_slides: [week-01-lecture-02-slide-004]
+    confidence: 2
+    misconceptions:
+      - "Initially attributed the decoding failure primarily to packets being lost; the slide's immediate cause is a signal that is too weak to decode reliably."
+    last_reviewed: 2026-09-16
+    review_priority: 1
+  networking-software-tools:
+    related_slides: [week-01-lecture-02-slide-005]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  protocols-and-messages:
+    related_slides: [week-01-lecture-02-slide-006]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  http-request-response:
+    related_slides: [week-01-lecture-02-slide-007]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  wlan-and-wifi:
+    related_slides: [week-01-lecture-02-slide-008]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  pan-and-bluetooth:
+    related_slides: [week-01-lecture-02-slide-009]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  wired-ethernet-and-mac:
+    related_slides: [week-01-lecture-02-slide-010]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  switch-based-ethernet:
+    related_slides: [week-01-lecture-02-slide-011]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  wide-area-networks:
+    related_slides: [week-01-lecture-02-slide-012]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  routing-by-destination-ip:
+    related_slides: [week-01-lecture-02-slide-013]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
 concepts: {}
 questions_to_revisit: []
 

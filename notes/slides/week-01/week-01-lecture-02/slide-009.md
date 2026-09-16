@@ -3,7 +3,7 @@ slide_id: "week-01-lecture-02-slide-009"
 source_id: "week-01-lecture-02"
 page: 9
 week: 1
-status: unseen
+status: teaching
 concepts: []
 ---
 
@@ -13,19 +13,21 @@ concepts: []
 
 ## Explanation
 
-_The course tutor will develop this explanation with you._
+A **Personal Area Network**, or **PAN**, is a short-range wireless network designed to connect a person’s nearby peripheral devices.
 
 ## Walkthrough
 
-_Diagrams, equations, code, and examples will be explained here._
+The slide gives a typical range of roughly 30 feet and emphasizes that the connected devices do not need to be connected to the Internet. Bluetooth is the example: a computer can communicate wirelessly with nearby peripherals such as a mouse, keyboard, or printer.
+
+Other wireless network categories include cellular networks, wireless sensor networks, satellite communication networks, and microwave networks. These categories differ in purpose, scale, radio technology, and the environments they serve.
 
 ## Connections and exam relevance
 
-_Connections will be added when supported by course sources._
+PANs are smaller in scope than WLANs: a PAN focuses on an individual’s nearby devices, while a WLAN connects devices across a local area such as a home, office, or campus. [week-01-lecture-02, p. 9]
 
 ## Check your understanding
 
-_A concept-level check will be added when appropriate._
+**Check:** If your laptop connects to a nearby Bluetooth mouse and printer without using the Internet, what type of network is that?
 
 <!-- personal:start -->
 ## Personal notes

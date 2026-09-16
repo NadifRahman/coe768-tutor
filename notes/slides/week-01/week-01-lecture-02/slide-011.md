@@ -3,7 +3,7 @@ slide_id: "week-01-lecture-02-slide-011"
 source_id: "week-01-lecture-02"
 page: 11
 week: 1
-status: unseen
+status: teaching
 concepts: []
 ---
 
@@ -13,19 +13,21 @@ concepts: []
 
 ## Explanation
 
-_The course tutor will develop this explanation with you._
+Switch-based Ethernet replaces the one shared bus with a switch that provides multiple ports for individual network connections.
 
 ## Walkthrough
 
-_Diagrams, equations, code, and examples will be explained here._
+Each host connects to a separate switch port. The switch links these individual connections into a larger Ethernet LAN and forwards traffic between the appropriate ports. The left image shows several computers attached to one switch; the right image shows switches connected together, with a server and hosts attached across the larger network.
+
+Compared with classic Ethernet, this arrangement makes the physical connections more organized and lets the switch manage traffic between particular devices rather than putting every device on one long shared cable.
 
 ## Connections and exam relevance
 
-_Connections will be added when supported by course sources._
+This is the practical continuation of the switch-versus-router distinction: switches connect devices within a LAN, while routers connect different networks. It also shows how individual links can be combined into a larger Ethernet network. [week-01-lecture-02, p. 11]
 
 ## Check your understanding
 
-_A concept-level check will be added when appropriate._
+**Check:** What is the role of the multiple ports on an Ethernet switch?
 
 <!-- personal:start -->
 ## Personal notes

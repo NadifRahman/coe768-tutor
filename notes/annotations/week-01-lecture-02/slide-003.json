@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "baseHash": "91958fca0c2698de0063ee2b0ba16953b34733dcb92f8c1e689d766cd42280f2",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu45nl89-90vakv",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.6433239436619719,
+      "y1": 0.17793218786708345,
+      "x2": 0.8830985915492958,
+      "y2": 0.23399765066597647,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu45nmv2-bjf6o0",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.44861971830985914,
+      "y1": 0.4939375236426623,
+      "x2": 0.6036619718309859,
+      "y2": 0.5410834809962769,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu45nq3b-d47ab6",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.6261971830985915,
+      "y1": 0.5678419973321122,
+      "x2": 0.628,
+      "y2": 0.5754872877137794,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

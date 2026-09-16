@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "baseHash": "c4ef62e094a6ba7ef08b9b4a364a4c537dd799cced5da655799fa95e81827e6d",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4nb2yo-potd20",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.1127036127036127,
+      "y1": 0.11888171858585425,
+      "x2": 0.22530105863439195,
+      "y2": 0.1751388204017752,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4nb455-y9tp80",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.09814359814359815,
+      "y1": 0.18199944257444847,
+      "x2": 0.2107410440743774,
+      "y2": 0.22453530004502284,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4nbfwn-nm31fz",
+      "type": "rectangle",
+      "color": "#e53935",
+      "width": 0.0041946308724832215,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.28936512269845605,
+      "y1": 0.34253800141500335,
+      "x2": 0.17870901204234538,
+      "y2": 0.2807924018609438,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}
