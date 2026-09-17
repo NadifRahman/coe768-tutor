@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "baseHash": "8662e8c01700de5239f49e9f630f996541f4edd878d57227da18a5c068edf13b",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4to2z8-ew1yab",
+      "type": "text",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x": 0.1125774647887324,
+      "y": 0.9106058494435264,
+      "text": "So essentially the one that ends the connection allows the other to finish sending data if there is any",
+      "fontSize": 0.02,
+      "fontFamily": "sans-serif"
+    }
+  ]
+}

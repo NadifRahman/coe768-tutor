@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "baseHash": "f1520450e4b9b641af948f80bf30610152f79d69b0c43ebac2b623c8e93e5d77",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4rie55-aops02",
+      "type": "text",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x": 0.4560140845070422,
+      "y": 0.09001134847791029,
+      "text": "This just a repeat slide basically",
+      "fontSize": 0.02,
+      "fontFamily": "sans-serif"
+    }
+  ]
+}

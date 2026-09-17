@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "baseHash": "de278907639e9805fbe7f4d8b29d5822d3e1300e00d4b21db181ee7256483c45",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4sibsw-q6yi5n",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.8319014084507043,
+      "y1": 0.6799729229298983,
+      "x2": 0.8319014084507043,
+      "y2": 0.6799729229298983,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

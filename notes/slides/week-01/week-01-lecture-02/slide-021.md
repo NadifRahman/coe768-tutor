@@ -3,7 +3,7 @@ slide_id: "week-01-lecture-02-slide-021"
 source_id: "week-01-lecture-02"
 page: 21
 week: 1
-status: unseen
+status: teaching
 concepts: []
 ---
 
@@ -13,19 +13,21 @@ concepts: []
 
 ## Explanation
 
-_The course tutor will develop this explanation with you._
+This slide shows a real-looking traceroute output to `google.com` and maps the listed hops onto a router diagram.
 
 ## Walkthrough
 
-_Diagrams, equations, code, and examples will be explained here._
+The command resolves `google.com` to a destination IP and reports a maximum hop limit and probe size. Each numbered row is one hop. The first field is a router name or label, the address in parentheses is its IP address, and the following three values are measured round-trip times for separate probes.
+
+In this example, hop 1 is the local gateway, later hops belong to intermediate provider networks, and the final row reaches the destination address. The diagram below visualizes the observed path through the larger possible network. Latency can vary between probes, and a traceroute path is not necessarily permanent: routing can change, and some hops may be hidden or fail to respond.
 
 ## Connections and exam relevance
 
-_Connections will be added when supported by course sources._
+This example combines destination addressing, hop-by-hop routing, TTL, ICMP responses, and latency measurement from the previous slides. It shows what a diagnostic tool can reveal about the otherwise abstract network cloud. [week-01-lecture-02, p. 21]
 
 ## Check your understanding
 
-_A concept-level check will be added when appropriate._
+**Check:** In one numbered traceroute row, what do the hop number, IP address, and three time values represent?
 
 <!-- personal:start -->
 ## Personal notes

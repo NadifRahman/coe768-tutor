@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "baseHash": "74525c07b5ace7548d1ee0b1d932e51a756666443e3ee6d0e9cfed2fea9d593c",
+  "width": 1685,
+  "height": 1192,
+  "needsReview": false,
+  "previousBaseHash": null,
+  "objects": [
+    {
+      "id": "annotation-mu4t7pob-f93607",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.191,
+      "y1": 0.23017500547514286,
+      "x2": 0.32711267605633804,
+      "y2": 0.28878889840125826,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4t7sow-8019b2",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.10536619718309859,
+      "y1": 0.7806359129551834,
+      "x2": 0.3965211267605634,
+      "y2": 0.8800246879168575,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4t7w9a-7sln2f",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.7300422535211267,
+      "y1": 0.274772532701535,
+      "x2": 0.9427746478873239,
+      "y2": 0.3410317160093177,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4t7xq0-lslt81",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.6182676056338028,
+      "y1": 0.7882812033368507,
+      "x2": 0.8210845070422536,
+      "y2": 0.8596372468990782,
+      "fill": null,
+      "fillOpacity": 0.35
+    },
+    {
+      "id": "annotation-mu4t80sm-wvizuj",
+      "type": "rectangle",
+      "color": "#ff0000",
+      "width": 0.0025167785234899327,
+      "opacity": 1,
+      "note": "",
+      "x1": 0.2090281690140845,
+      "y1": 0.3206442749915384,
+      "x2": 0.49026760563380284,
+      "y2": 0.3601449419634858,
+      "fill": null,
+      "fillOpacity": 0.35
+    }
+  ]
+}

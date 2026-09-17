@@ -1,8 +1,8 @@
 version: 1
 checkpoint:
   week: 1
-  source_id: week-01-lecture-02
-  slide_id: week-01-lecture-02-slide-013
+  source_id: week-01-lecture-03
+  slide_id: week-01-lecture-03-slide-032
   updated_at: 2026-09-16
 slides:
   week-01-lecture-01-slide-001:
@@ -50,7 +50,87 @@ slides:
   week-01-lecture-02-slide-012:
     status: understood
   week-01-lecture-02-slide-013:
+    status: understood
+  week-01-lecture-02-slide-014:
+    status: understood
+  week-01-lecture-02-slide-015:
+    status: understood
+  week-01-lecture-02-slide-016:
+    status: understood
+  week-01-lecture-02-slide-017:
+    status: understood
+  week-01-lecture-02-slide-018:
+    status: understood
+  week-01-lecture-02-slide-019:
+    status: understood
+  week-01-lecture-02-slide-020:
+    status: understood
+  week-01-lecture-02-slide-021:
+    status: understood
+  week-01-lecture-03-slide-001:
+    status: understood
+  week-01-lecture-03-slide-002:
+    status: understood
+  week-01-lecture-03-slide-003:
+    status: understood
+  week-01-lecture-03-slide-004:
+    status: understood
+  week-01-lecture-03-slide-005:
+    status: understood
+  week-01-lecture-03-slide-006:
+    status: understood
+  week-01-lecture-03-slide-007:
+    status: understood
+  week-01-lecture-03-slide-008:
+    status: understood
+  week-01-lecture-03-slide-009:
+    status: understood
+  week-01-lecture-03-slide-010:
+    status: understood
+  week-01-lecture-03-slide-011:
+    status: understood
+  week-01-lecture-03-slide-012:
+    status: understood
+  week-01-lecture-03-slide-013:
+    status: understood
+  week-01-lecture-03-slide-014:
+    status: understood
+  week-01-lecture-03-slide-015:
+    status: understood
+  week-01-lecture-03-slide-016:
+    status: understood
+  week-01-lecture-03-slide-017:
     status: teaching
+  week-01-lecture-03-slide-018:
+    status: teaching
+  week-01-lecture-03-slide-019:
+    status: understood
+  week-01-lecture-03-slide-020:
+    status: teaching
+  week-01-lecture-03-slide-021:
+    status: understood
+  week-01-lecture-03-slide-022:
+    status: understood
+  week-01-lecture-03-slide-023:
+    status: understood
+  week-01-lecture-03-slide-024:
+    status: understood
+  week-01-lecture-03-slide-025:
+    status: teaching
+  week-01-lecture-03-slide-026:
+    status: understood
+  week-01-lecture-03-slide-027:
+    status: understood
+  week-01-lecture-03-slide-028:
+    status: understood
+  week-01-lecture-03-slide-029:
+    status: understood
+  week-01-lecture-03-slide-030:
+    status: understood
+  week-01-lecture-03-slide-031:
+    status: understood
+  week-01-lecture-03-slide-032:
+    status: understood
 concepts:
   client-server-endpoints:
     related_slides: [week-01-lecture-01-slide-002]
@@ -163,9 +243,226 @@ concepts:
     review_priority: 0
   routing-by-destination-ip:
     related_slides: [week-01-lecture-02-slide-013]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  network-boundary:
+    related_slides: [week-01-lecture-02-slide-014]
     confidence: 0
     misconceptions: []
     last_reviewed: null
+    review_priority: 0
+  network-cloud-abstraction:
+    related_slides: [week-01-lecture-02-slide-015]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  socket-api-interface:
+    related_slides: [week-01-lecture-02-slide-016]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  traceroute-and-hops:
+    related_slides: [week-01-lecture-02-slide-017]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  icmp-ping-and-ttl:
+    related_slides: [week-01-lecture-02-slide-018]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  icmp-diagnostic-outcomes:
+    related_slides: [week-01-lecture-02-slide-019]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  traceroute-ttl-procedure:
+    related_slides: [week-01-lecture-02-slide-020]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  traceroute-output:
+    related_slides: [week-01-lecture-02-slide-021]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  socket-api-review:
+    related_slides: [week-01-lecture-03-slide-001]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  client-server-architecture:
+    related_slides: [week-01-lecture-03-slide-002]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  request-reply-sequence:
+    related_slides: [week-01-lecture-03-slide-003]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  dns-and-echo-services:
+    related_slides: [week-01-lecture-03-slide-004]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  tcp-versus-udp:
+    related_slides: [week-01-lecture-03-slide-005]
+    confidence: 0
+    misconceptions:
+      - "Asked why DNS can use UDP despite needing a reliable answer; clarified that DNS handles loss with retries, caching, alternate servers, and TCP fallback when needed."
+    last_reviewed: null
+    review_priority: 0
+  network-layering-and-modularity:
+    related_slides: [week-01-lecture-03-slide-013, week-01-lecture-03-slide-014, week-01-lecture-03-slide-016, week-01-lecture-03-slide-017]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  network-layer-functions-and-devices:
+    related_slides: [week-01-lecture-03-slide-015]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  http-as-application-protocol:
+    related_slides: [week-01-lecture-03-slide-018]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  tcp-reliable-data-transmission:
+    related_slides: [week-01-lecture-03-slide-019]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  layered-http-and-tcp-interaction:
+    related_slides: [week-01-lecture-03-slide-020]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  adjacent-and-peer-layer-interaction:
+    related_slides: [week-01-lecture-03-slide-021]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  protocol-stack-and-layer-interfaces:
+    related_slides: [week-01-lecture-03-slide-022]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  designing-a-protocol-stack:
+    related_slides: [week-01-lecture-03-slide-023]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  protocol-stack-example-http-tcp-ethernet:
+    related_slides: [week-01-lecture-03-slide-024]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  encapsulation-and-decapsulation:
+    related_slides: [week-01-lecture-03-slide-025]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  tcp-header-and-decapsulation:
+    related_slides: [week-01-lecture-03-slide-026]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  tcp-http-exchange-with-mac-and-ip:
+    related_slides: [week-01-lecture-03-slide-027]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  tcp-control-segments-and-ethernet-encapsulation:
+    related_slides: [week-01-lecture-03-slide-028]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  http-data-encapsulation:
+    related_slides: [week-01-lecture-03-slide-029]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  link-layer-independence-and-ip:
+    related_slides: [week-01-lecture-03-slide-030]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  router-crosses-link-layer-technologies:
+    related_slides: [week-01-lecture-03-slide-031]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  layering-information-hiding-and-reuse:
+    related_slides: [week-01-lecture-03-slide-032]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
+    review_priority: 0
+  ports-and-sockets:
+    related_slides: [week-01-lecture-03-slide-006]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  service-identification-by-port:
+    related_slides: [week-01-lecture-03-slide-007]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  port-number-ranges:
+    related_slides: [week-01-lecture-03-slide-008]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  tcp-three-way-handshake:
+    related_slides: [week-01-lecture-03-slide-009]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  tcp-four-way-termination:
+    related_slides: [week-01-lecture-03-slide-010]
+    confidence: 0
+    misconceptions: []
+    last_reviewed: null
+    review_priority: 0
+  udp-connectionless-and-error-detection:
+    related_slides: [week-01-lecture-03-slide-011]
+    confidence: 3
+    misconceptions: []
+    last_reviewed: 2026-09-16
     review_priority: 0
 concepts: {}
 questions_to_revisit: []

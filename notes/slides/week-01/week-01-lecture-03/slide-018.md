@@ -3,8 +3,9 @@ slide_id: "week-01-lecture-03-slide-018"
 source_id: "week-01-lecture-03"
 page: 18
 week: 1
-status: unseen
-concepts: []
+status: teaching
+concepts:
+  - http-as-application-protocol
 ---
 
 # Slide 18
@@ -13,19 +14,28 @@ concepts: []
 
 ## Explanation
 
-_The course tutor will develop this explanation with you._
+Network functions and services are implemented through protocols. HTTP is an application-layer protocol that defines how a client requests web resources and how a server responds.
 
 ## Walkthrough
 
-_Diagrams, equations, code, and examples will be explained here._
+The example request is:
+
+`GET index.html HTTP/1.1` with a `Host` such as `www.google.ca`.
+
+The server responds with a status such as:
+
+- `200 OK`: the requested resource was found and returned.
+- `404 Not Found`: the server could not find the requested resource.
+
+The exact HTTP version shown on the response is less important here than the request/response structure and the status code.
 
 ## Connections and exam relevance
 
-_Connections will be added when supported by course sources._
+This connects the general idea of protocols to a concrete application service: HTTP defines message format, request method, ordering of the exchange, and the action the server should take.
 
 ## Check your understanding
 
-_A concept-level check will be added when appropriate._
+What does `200 OK` mean, and how is it different from `404 Not Found`?
 
 <!-- personal:start -->
 ## Personal notes
