@@ -223,6 +223,51 @@ sources:
         title: "Computer Networks, 5th Edition Solution Manual",
         path: materials/local/textbooks/computer-networks-tanenbaum-5e-solutions.pdf,
         tracked: false
+      },
+    {
+        id: week-02-lecture-01,
+        type: lecture,
+        title: "Week 2 Lecture 1: Socket Programming",
+        path: materials/local/lectures/week-02/lecture-01.pdf,
+        week: 2,
+        lecture: 1,
+        tracked: false
+      },
+    {
+        id: week-02-lecture-02,
+        type: lecture,
+        title: "Week 2 Lecture 2: Reference Models",
+        path: materials/local/lectures/week-02/lecture-02.pdf,
+        week: 2,
+        lecture: 2,
+        tracked: false
+      },
+    {
+        id: week-02-lecture-03,
+        type: lecture,
+        title: "Week 2 Lecture 3: Physical Layer",
+        path: materials/local/lectures/week-02/lecture-03.pdf,
+        week: 2,
+        lecture: 3,
+        tracked: false
+      },
+    {
+        id: week-02-lecture-04,
+        type: lecture,
+        title: "Week 2 Lecture 4: Data Link Layer Part 1",
+        path: materials/local/lectures/week-02/lecture-04.pdf,
+        week: 2,
+        lecture: 4,
+        tracked: false
+      },
+    {
+        id: week-02-lecture-05,
+        type: lecture,
+        title: "Week 2 Lecture 5: Data Link Layer Part 2",
+        path: materials/local/lectures/week-02/lecture-05.pdf,
+        week: 2,
+        lecture: 5,
+        tracked: false
       }
   ]
 
